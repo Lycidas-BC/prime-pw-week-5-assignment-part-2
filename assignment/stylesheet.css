@@ -1,10 +1,10 @@
-header {
+.record_store {
   background-color: #330000;
   color: #cc0000;
   text-align: center;
 }
 
-main {
+.record_collection {
   background-color: gainsboro;
   padding: 1em;
 }
