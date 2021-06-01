@@ -3,3 +3,7 @@ header {
   color: #cc0000;
   text-align: center;
 }
+
+main {
+  background-color: gainsboro;
+}
